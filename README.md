@@ -4,7 +4,7 @@ This repository contains a full-stack, AI-powered parking management system desi
 The project is built to be modular and scalable, with a clear separation between the backend (computer vision and API) and the frontend.
 
 Features
-Custom-Trained YOLOv8 Model: A lightweight but highly accurate model trained on a custom dataset to identify 'cars' and 'free' parking spaces.
+Custom-Trained YOLOv8n Model: A lightweight but highly accurate model trained on a custom dataset to identify 'cars' and 'free' parking spaces.
 
 Real-Time Video Analysis: Processes a pre-recorded video or a live camera feed to provide instant updates on parking availability.
 
