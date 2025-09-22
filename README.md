@@ -1,5 +1,5 @@
 AI Parking Management System
-This repository contains a full-stack, AI-powered parking management system designed as a hackathon project. The system uses a custom-trained YOLOv8 model to accurately detect and count available and occupied parking spaces in real-time from a video feed.
+This repository contains a full-stack, AI-powered parking management system designed as a hackathon project. The system uses a custom-trained YOLOv8n model to accurately detect and count available and occupied parking spaces in real-time from a video feed.
 
 The project is built to be modular and scalable, with a clear separation between the backend (computer vision and API) and the frontend.
 
