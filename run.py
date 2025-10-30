@@ -13,12 +13,12 @@ def run_inference():
     
     # --- Step 2: Define video source ---
     # You can use a pre-recorded video file.
-    video_path = "carPark1.mp4"
+    video_path = "carPark.mp4"
     
     # You can also use a webcam for live detection by changing the path to an integer (e.g., 0).
     # video_path = 0 
     
-    cap = cv2.VideoCapture(0)
+    cap = cv2.VideoCapture(video_path)
     if not cap.isOpened():
         print(f"Error: Could not open video source at '{video_path}'.")
         return
