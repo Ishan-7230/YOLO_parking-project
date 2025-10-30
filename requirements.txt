@@ -1,0 +1,4 @@
+flask
+flask-cors
+opencv-python # For cv2
+ultralytics
